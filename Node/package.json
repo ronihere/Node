@@ -1,0 +1,21 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "started learning node js, soon I will be good in it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node expressStarter.js",
+    "dev": "nodemon expressStarter.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

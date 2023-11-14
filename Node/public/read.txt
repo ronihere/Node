@@ -1,0 +1,1 @@
+Hi, How are you doing? this is inside public folder , so it is accessible in the browser

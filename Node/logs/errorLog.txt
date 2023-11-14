@@ -1,0 +1,3 @@
+11/14/2023, 11:35:14 AM GMT+5:30 	 9ff423c7-c420-4101-917e-0a3257fea42c 	 Error 	 Not allowed by CORS 
+11/14/2023, 11:35:14 AM GMT+5:30 	 42f8fef0-ae7a-473f-b25d-7a25d0d585bc 	 Error 	 Not allowed by CORS 
+11/14/2023, 11:39:08 AM GMT+5:30 	 0126cafd-e105-4ee4-883a-f429ef126e68 	 Error 	 Not allowed by CORS 
